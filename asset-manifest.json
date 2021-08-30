@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/covid-19-vaccines-tracker/static/css/main.3077fb0b.chunk.css",
+    "main.js": "/covid-19-vaccines-tracker/static/js/main.8817901b.chunk.js",
+    "main.js.map": "/covid-19-vaccines-tracker/static/js/main.8817901b.chunk.js.map",
+    "runtime-main.js": "/covid-19-vaccines-tracker/static/js/runtime-main.7d3597de.js",
+    "runtime-main.js.map": "/covid-19-vaccines-tracker/static/js/runtime-main.7d3597de.js.map",
+    "static/css/2.7c35e809.chunk.css": "/covid-19-vaccines-tracker/static/css/2.7c35e809.chunk.css",
+    "static/js/2.f86732e8.chunk.js": "/covid-19-vaccines-tracker/static/js/2.f86732e8.chunk.js",
+    "static/js/2.f86732e8.chunk.js.map": "/covid-19-vaccines-tracker/static/js/2.f86732e8.chunk.js.map",
+    "index.html": "/covid-19-vaccines-tracker/index.html",
+    "precache-manifest.3a59f5485e643af49bccab81dcb57fce.js": "/covid-19-vaccines-tracker/precache-manifest.3a59f5485e643af49bccab81dcb57fce.js",
+    "service-worker.js": "/covid-19-vaccines-tracker/service-worker.js",
+    "static/css/2.7c35e809.chunk.css.map": "/covid-19-vaccines-tracker/static/css/2.7c35e809.chunk.css.map",
+    "static/css/main.3077fb0b.chunk.css.map": "/covid-19-vaccines-tracker/static/css/main.3077fb0b.chunk.css.map",
+    "static/js/2.f86732e8.chunk.js.LICENSE.txt": "/covid-19-vaccines-tracker/static/js/2.f86732e8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d3597de.js",
+    "static/css/2.7c35e809.chunk.css",
+    "static/js/2.f86732e8.chunk.js",
+    "static/css/main.3077fb0b.chunk.css",
+    "static/js/main.8817901b.chunk.js"
+  ]
+}
